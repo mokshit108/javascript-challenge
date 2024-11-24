@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.create.vista.com/api/media/small/1979239/stock-photo-rottweiler",
+        "species": "Dog",
+        "name": "Rotwailer",
+        "size": "2 ft",
+        "location": "Germany"
+    },
+    {
+        "id": 2,
+        "image": "https://www.vidavetcare.com/wp-content/uploads/sites/234/2022/04/german-shepherd-dog-breed-info.jpeg",
+        "species": "Dog",
+        "name": "German Shepherd",
+        "size": "2 ft",
+        "location": "Germany"
+    },
+    {
+        "id": 3,
+        "image": "https://hips.hearstapps.com/hmg-prod/images/labrador-puppy-royalty-free-image-1626252338.jpg?crop=0.669xw:1.00xh;0.173xw,0&resize=1200:*",
+        "species": "Dog",
+        "name": "Labrador",
+        "size": "2 ft",
+        "location": "UK"
+    },
+    {
+        "id": 4,
+        "image": "https://animalgator.com/wp-content/uploads/2024/09/Alabai-Dog.jpeg",
+        "species": "Dog",
+        "name": "Alabai",
+        "size": "4 ft",
+        "location": "Turkey"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.natgeofe.com/n/17dc1d2f-4312-486d-8f2c-7875f70a7317/PF8W98_square.jpg",
+        "species": "Big Fish",
+        "name": "Humpback Whale",
+        "size": "15 ft",
+        "location": "Atlantic Ocean"
+    },
+    {
+        "id": 2,
+        "image": "https://i.natgeofe.com/n/e120f0dd-7aa1-4831-908a-5768e35c1827/01_orca_killer_whale_gallery_square.jpg",
+        "species": "Big Fish",
+        "name": "Killer Whale",
+        "size": "12 ft",
+        "location": "Atlantic Ocean"
+    },
+    {
+        "id": 3,
+        "image": "https://www.divephotoguide.com/images/lightboximage/orig/1591498067.jpg",
+        "species": "Big Fish",
+        "name": "Tiger Shark",
+        "size": "8 ft",
+        "location": "Ocean"
+    },
+    {
+        "id": 4,
+        "image": "https://i.natgeofe.com/k/ab05056e-6b6e-41d7-ab0a-c15c84110f02/hammerhead-shark-swimming_square.jpg",
+        "species": "Big Fish",
+        "name": "Hammerhead Shark",
+        "size": "8 ft",
+        "location": "Ocean"
+    }
+]

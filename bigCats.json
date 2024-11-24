@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg",
+        "species": "Big Cats",
+        "name": "Tiger",
+        "size": "10 ft",
+        "location": "Asia"
+    },
+    {
+        "id": 2,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/1200px-020_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+        "species": "Big Cats",
+        "name": "Lion",
+        "size": "8 ft",
+        "location": "Africa"
+    },
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/564x/76/92/3e/76923e6b6b6bb128fb4e9ea96caf9f35.jpg",
+        "species": "Big Cats",
+        "name": "Leopard",
+        "size": "5 ft",
+        "location": "Africa and Asia"
+    },
+    {
+        "id": 4,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCW3TWeZRb1pJ-PBWErmJaVFrElsUgRIRHvHjeK91OyDBpAc_oIHh6FGGtKgQ3ghFMCk&usqp=CAU",
+        "species": "Big Cats",
+        "name": "Cheetah",
+        "size": "5 ft",
+        "location": "Africa"
+    },
+    {
+        "id": 5,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg/800px-Caracal_on_the_road%2C_early_morning_in_Kgalagadi_%2836173878220%29_%28cropped%29.jpg",
+        "species": "Big Cats",
+        "name": "Caracal",
+        "size": "3 ft",
+        "location": "Africa"
+    },
+    {
+        "id": 6,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Standing_jaguar.jpg/640px-Standing_jaguar.jpg",
+        "species": "Big Cats",
+        "name": "Jaguar",
+        "size": "5 ft",
+        "location": "Amazon"
+    }
+]
