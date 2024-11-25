@@ -26,6 +26,14 @@ h2 {
     font-family: 'Arial', sans-serif;
 }
 
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: #005dc0;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+
 /* Container for Tables and Modals */
 .container {
     max-width: 1200px;
@@ -50,8 +58,9 @@ h2 {
 
 .table th,
 .table td {
+    text-align: center; /* Center align text horizontally */
+    vertical-align: middle;
     padding: 12px;
-    text-align: center;
     border-bottom: 1px solid #ddd;
 }
 
@@ -60,6 +69,7 @@ h2 {
     color: white;
     font-weight: 600;
     text-transform: uppercase;
+
 }
 
 .table tr:hover {
@@ -94,7 +104,6 @@ img:hover {
 }
 
 .modal-header .modal-title {
-    color: #4e3629;
     font-weight: 600;
     font-size: 1.25rem;
 }
@@ -111,7 +120,6 @@ img:hover {
 /* Form Inputs */
 .form-label {
     font-weight: 600;
-    color: #555;
 }
 
 .form-control {
@@ -121,10 +129,6 @@ img:hover {
     font-size: 1rem;
 }
 
-.form-control:focus {
-    border-color: #8B4513;
-    box-shadow: 0 0 5px rgba(139, 69, 19, 0.5);
-}
 
 /* Buttons */
 .btn-primary {
